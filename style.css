@@ -74,21 +74,25 @@ body {
 
 .button {
     background-color: #fff54f;
-    border: none;
-    color: #000000;
+    color: black;
     padding: 30px 64px;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
     font-size: 32px;
     margin-top: 20px;
     cursor: pointer;
-    border-radius: 15px;
     font-family: 'MyFont', sans-serif;
+    border: none;
 }   
 
 footer {
     margin-top: 50px;
     font-size: 14px;
-    color: white;
+    color: black;
+    background-color: green;
+}
+
+footer a {
+    color: #1c1d1f;
+    text-decoration: none;
+    margin-left: 10px;
 }
