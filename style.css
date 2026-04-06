@@ -26,7 +26,10 @@ body {
 
 .secondrow img {
     width: 15%;
-    height: auto;
+}
+
+.height {
+    max-height: 360px;
 }
 
 .thirdrow img {
