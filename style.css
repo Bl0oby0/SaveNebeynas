@@ -82,6 +82,7 @@ body {
     text-align: center;
     font-size: 32px;
     margin-top: 20px;
+    margin-bottom: 20px;
     cursor: pointer;
     font-family: 'MyFont', sans-serif;
     border: none;
@@ -98,4 +99,11 @@ footer a {
     color: #1c1d1f;
     text-decoration: none;
     margin-left: 10px;
+}
+
+.donaters {
+   margin-bottom: 20px;
+   width: 50%;
+   margin: 0 auto;
+
 }
