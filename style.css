@@ -102,8 +102,11 @@ footer a {
 }
 
 .donaters {
-   margin-bottom: 20px;
    width: 50%;
    margin: 0 auto;
 
+}
+
+.donaters p {
+    white-space: nowrap;
 }
